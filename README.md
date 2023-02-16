@@ -14,4 +14,10 @@ Create new environment
 2. To activate environment conda activate /Users/pawanrai/Documents/GitHub/Machine learning End to End Project/bostonhousingpricing/venv
 
 3. To install requirement command pip install -r requirement.txt
+
+4. To configure GIT user name and email address.
+    git config --global user.name "USER NAME"
+    git config --global user.email "USER EMAIL"
+
+5. 
 ```
